@@ -1,4 +1,4 @@
-"# angular-2-and-4" 
+#Angular-2-and-4
 
 First, install typescript and angular-cli
 
